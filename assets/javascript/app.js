@@ -1,3 +1,4 @@
+// Created by John Bendfeldt @jimmymenutrivia@gmail.com
 $(document).ready(function () {
 	// Variables that I need
     var correct = 0;
