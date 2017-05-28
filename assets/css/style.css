@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+	background-image: url('../images/jimmybg.gif');
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Oswald', sans-serif;
+}
+
+#container {
+	width: 85%;
+	max-width: 980px;
+	background-color: #000;
+	border: 5px solid #FFFFFF;
+	margin: 50px auto;
+	position: relative;
+	height: 800px;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	color: #EC1415;
+	text-shadow:
+			-1px -1px 0 #FFFFFF,  
+    		1px -1px 0 #FFFFFF,
+    		-1px 1px 0 #FFFFFF,
+     		1px 1px 0 #FFFFFF;
+	font-size: 72px;
+	font-weight: 900;
+	margin: 4px auto;
+}
+
+.wrong {
+	background-color: #e85d5d;
+	margin: 4px auto;
+	text-shadow:
+			-1px -1px 0 #000,  
+    		1px -1px 0 #000,
+    		-1px 1px 0 #000,
+     		1px 1px 0 #000;
+}
+
+.correct {
+	background-color: #B8F4CC;
+	margin: 4px auto;
+	text-shadow:
+			-1px -1px 0 #000,  
+    		1px -1px 0 #000,
+    		-1px 1px 0 #000,
+     		1px 1px 0 #000;
+}
+
+li {
+	list-style: url(../images/star.png);
+	font-size: 24px;
+	border: 1px dashed #FFFFFF;
+	margin: 2px auto;
+	width: 65%;
+	text-align: left;
+}
+
+p {
+	font-size: 28px;
+}
+.restart {
+	background-color: #e85d5d;
+}
+
+.start {
+	background-color: #B8F4CC;
+}
+
+.reset {
+	background-color: #EB1515;
+}
+
+button {
+	color: #000;
+	text-shadow:
+			-1px -1px 0 #FFFFFF,  
+    		1px -1px 0 #FFFFFF,
+    		-1px 1px 0 #FFFFFF,
+     		1px 1px 0 #FFFFFF;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+h2 {
+	font-size: 42px;
+	margin: 0px auto;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+#jjlogo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 150px;
+}
+
+@media screen and (max-width: 1500px) {
+	body {
+		background-size: 2000px 1000px;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	#jjlogo {
+		height: 50px;
+	}
+	
+	#container {
+		height: 900px;
+	}
+
+	h1 {
+		margin: 50px 0px 0px 0px;
+	}
+
+	li {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	body {
+		background-size: 1600px 800px;
+	}
+	
+	#container {
+		height: 600px;
+	}
+
+	h1 {
+		font-size: 42px;
+	}
+
+	h2,
+	h3 {
+		font-size: 24px;
+		margin: 0px auto;
+	}
+
+	button,
+	p,
+	li {
+		font-size: 16px;
+	}
+}

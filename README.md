@@ -1,1 +1,1 @@
-# jimmytrivia
+# Jimmy Trivia created by John Bendfeldt, 2017
