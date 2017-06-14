@@ -1,1 +1,1 @@
-# Jimmy Trivia created by John Bendfeldt, 2017
+# Jimmy John's Menu Trivia created by John Bendfeldt, 2017 find me at johnbendfeldt.github.io or github.com/JohnBendfeldt
