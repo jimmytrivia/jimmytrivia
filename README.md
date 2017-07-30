@@ -8,7 +8,7 @@ I used JavaScript and jQuery to keep the game moving.
 
 The trivia is responsive and works well on phones.
 
-To test your knowledge and become a Menu Master go to [here](https://jimmytrivia.github.io/).
+Test your knowledge and become a Menu Master [here](https://jimmytrivia.github.io/).
 
 
 Find me [here](http://johnbendfeldt.com/) or at [GitHub](https://github.com/JohnBendfeldt).
