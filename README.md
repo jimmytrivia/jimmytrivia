@@ -1,1 +1,15 @@
-# Jimmy John's Menu Trivia created by John Bendfeldt, 2017 find me at johnbendfeldt.github.io or github.com/JohnBendfeldt
+# Jimmy John's Menu Trivia 
+
+This is a test for Jimmy John’s Team Members to help master the menu.
+
+There are 15 questions generated about the menu that you have 15 seconds to answer.
+
+I used JavaScript and jQuery to keep the game moving. 
+
+The trivia is responsive and works well on phones.
+
+To test your knowledge and become a Menu Master go to JimmyTrivia.github.io
+
+Created by John Bendfeldt, 2017 
+
+Find me at johnbendfeldt.github.io or github.com/JohnBendfeldt
