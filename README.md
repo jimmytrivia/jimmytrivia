@@ -10,6 +10,7 @@ The trivia is responsive and works well on phones.
 
 To test your knowledge and become a Menu Master go to JimmyTrivia.github.io
 
-Created by John Bendfeldt, 2017 
 
-Find me at johnbendfeldt.github.io or github.com/JohnBendfeldt
+Find me [here](johnbendfeldt.com) or at [GitHub](github.com/JohnBendfeldt).
+
+##Created by John Bendfeldt, 2017 
