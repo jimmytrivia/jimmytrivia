@@ -13,4 +13,4 @@ To test your knowledge and become a Menu Master go to JimmyTrivia.github.io
 
 Find me [here](johnbendfeldt.com) or at [GitHub](github.com/JohnBendfeldt).
 
-##Created by John Bendfeldt, 2017 
+## Created by John Bendfeldt, 2017 
